@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:webview_flutter/webview_flutter.dart';
 
 void main() {
   runApp(MyApp());
@@ -37,7 +38,11 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body: Container()
+      body: WebView(
+        initialUrl: 'https://www.youtube.com/watch?v=wES6oz8V-AY',
+        initialMediaPlaybackPolicy: AutoMediaPlaybackPolicy.always_allow,
+        javascriptMode: JavascriptMode.unrestricted,
+      )
     );
   }
 }
