@@ -38,11 +38,9 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body: WebView(
-        initialUrl: 'https://www.youtube.com/watch?v=wES6oz8V-AY',
-        initialMediaPlaybackPolicy: AutoMediaPlaybackPolicy.always_allow,
-        javascriptMode: JavascriptMode.unrestricted,
-      )
+      // https://www.nextflow.in.th/google-flutter-online
+      // https://www.youtube.com/watch?v=wES6oz8V-AY
+      body: Container()
     );
   }
 }
