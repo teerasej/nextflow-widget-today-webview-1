@@ -1,16 +1,20 @@
-# nextflow_webview
+# Flutter 3 นาทีกับโค้ชพล: แสดงเว็บไซต์ในแอพด้วย WebView
 
-A new Flutter project.
+โปรเจค Flutter สำหรับฝึกฝนเรียนรู้การใช้งาน Flutter กับโค้ชพลนะครับ ในรอบนี้มาดูวิธีแสดงเว็บไซต์ หรือหน้าเว็บเพจของเราในแอพพลิเคชั่น Flutter ด้วย WebView กัน
 
-## Getting Started
+- วิธีกำหนด url ของ Website ที่ต้องการ
+- วิธีกำหนดเปิดการทำงานของ JavaScript
+- วิธีกำหนดการเล่นวิดีโออัตโนมัติบนเว็บไซต์ที่เปิดในแอพ
 
-This project is a starting point for a Flutter application.
+## ดูคลิปทำตามได้ที่นี่เลย 
 
-A few resources to get you started if this is your first Flutter project:
+สามารถกด subscribe ติดตามคลิปเรื่อง Flutter และคลิปใหม่ๆ ได้ผ่านช่อง Youtube ของโค้ชพลนะครับ 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://youtu.be/L_DX9a5slZk
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## เริ่มต้นเรียนรู้สร้างแอพ iOS และ Android ด้วย Google Flutter 
+
+ออกแบบให้เข้าใจง่าย ฝึกทำและเรียนรู้จากแอพจริง ดูรายละเอียดและซื้อได้ที่ลิ้งค์ด้านล่างเลยครับ 
+
+https://nextflow.in.th/google-flutter-online/
